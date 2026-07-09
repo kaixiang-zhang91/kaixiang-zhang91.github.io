@@ -1,11 +1,12 @@
 ---
 title: "Trifocal Tensor-Based Adaptive Visual Trajectory Tracking Control of Mobile Robots"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-trifocal-tensor-based-adaptive-visual-trajectory-tracking-control-of-mobile-robo
 date: 2017-11-01
 venue: "IEEE Transactions on Cybernetics"
 paperurl: ""
-citation: "J. Chen and B. Jia and \textbfK.~Zhang. 'Trifocal Tensor-Based Adaptive Visual Trajectory Tracking Control of Mobile Robots.' IEEE Transactions on Cybernetics. 2017."
+citation: "J. Chen and B. Jia and K. Zhang. 'Trifocal Tensor-Based Adaptive Visual Trajectory Tracking Control of Mobile Robots.' IEEE Transactions on Cybernetics. 2017."
 ---
 
 <details>
@@ -13,7 +14,7 @@ citation: "J. Chen and B. Jia and \textbfK.~Zhang. 'Trifocal Tensor-Based Adapti
 
 ```bibtex
 @ARTICLE{JiaSMC2016, 
-	author={J. Chen and B. Jia and \textbf{K.~Zhang}}, 
+	author={J. Chen and B. Jia and K. Zhang}, 
 	journal={IEEE Transactions on Cybernetics}, 
 	title={Trifocal Tensor-Based Adaptive Visual Trajectory Tracking Control of Mobile Robots}, 
 	year={2017}, 
