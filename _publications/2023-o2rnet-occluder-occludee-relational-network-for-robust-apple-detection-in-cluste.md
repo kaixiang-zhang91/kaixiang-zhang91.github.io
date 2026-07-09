@@ -1,11 +1,12 @@
 ---
 title: "O2RNet: Occluder-Occludee Relational Network for Robust Apple Detection in Clustered Orchard Environments"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-o2rnet-occluder-occludee-relational-network-for-robust-apple-detection-in-cluste
 date: 2023-10-01
 venue: "Smart Agricultural Technology"
 paperurl: ""
-citation: "Chu, Pengyu and Li, Zhaojian and \textbfK.~Zhang and Chen, Dong and Lammers, Kyle and Lu, Renfu. 'O2RNet: Occluder-Occludee Relational Network for Robust Apple Detection in Clustered Orchard Environments.' Smart Agricultural Technology. 2023."
+citation: "P. Chu and Z. Li and K. Zhang and D. Chen and K. Lammers and R. Lu. 'O2RNet: Occluder-Occludee Relational Network for Robust Apple Detection in Clustered Orchard Environments.' Smart Agricultural Technology. 2023."
 ---
 
 <details>
