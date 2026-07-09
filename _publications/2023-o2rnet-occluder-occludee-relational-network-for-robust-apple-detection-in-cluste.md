@@ -14,8 +14,8 @@ citation: "P. Chu and Z. Li and K. Zhang and D. Chen and K. Lammers and R. Lu. '
 
 ```bibtex
 @article{ChuSAT2023,
-	title={{O2RNet}: Occluder-Occludee Relational Network for Robust Apple Detection in Clustered Orchard Environments},
-	author={Chu, Pengyu and Li, Zhaojian and \textbf{K.~Zhang} and Chen, Dong and Lammers, Kyle and Lu, Renfu},
+	title={O2RNet: Occluder-Occludee Relational Network for Robust Apple Detection in Clustered Orchard Environments},
+	author={Chu, Pengyu and Li, Zhaojian and K. Zhang and Chen, Dong and Lammers, Kyle and Lu, Renfu},
 	journal = {Smart Agricultural Technology},
 	volume = {5},
 	pages = {100284},
