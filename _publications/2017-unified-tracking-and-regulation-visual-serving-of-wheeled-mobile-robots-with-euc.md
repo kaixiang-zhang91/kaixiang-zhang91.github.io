@@ -1,11 +1,12 @@
 ---
 title: "Unified tracking and regulation visual serving of wheeled mobile robots with Euclidean reconstruction"
 collection: publications
+category: conferences
 permalink: /publication/2017-unified-tracking-and-regulation-visual-serving-of-wheeled-mobile-robots-with-euc
 date: 2017-05-01
 venue: "Proceedings of the American Control Conference"
 paperurl: ""
-citation: "\textbfK.~Zhang and J. Chen and B. Jia and Y. Li. 'Unified tracking and regulation visual serving of wheeled mobile robots with Euclidean reconstruction.' Proceedings of the American Control Conference. 2017."
+citation: "K. Zhang and J. Chen and B. Jia and Y. Li. 'Unified tracking and regulation visual serving of wheeled mobile robots with Euclidean reconstruction.' Proceedings of the American Control Conference. 2017."
 ---
 
 <details>
@@ -13,7 +14,7 @@ citation: "\textbfK.~Zhang and J. Chen and B. Jia and Y. Li. 'Unified tracking a
 
 ```bibtex
 @inproceedings{zhangACC2017, 
-	author={\textbf{K.~Zhang} and J. Chen and B. Jia and Y. Li}, 
+	author={K. Zhang and J. Chen and B. Jia and Y. Li}, 
 	booktitle={Proceedings of the American Control Conference}, 
 	title={Unified tracking and regulation visual serving of wheeled mobile robots with {E}uclidean reconstruction}, 
 	year={2017}, 
