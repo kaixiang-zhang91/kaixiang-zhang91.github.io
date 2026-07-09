@@ -1,11 +1,12 @@
 ---
 title: "Control of regenerative braking systems for four-wheel-independently-actuated electric vehicles"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-control-of-regenerative-braking-systems-for-four-wheel-independently-actuated-el
 date: 2018-04-01
 venue: "Mechatronics"
 paperurl: ""
-citation: "J. Chen and J. Yu and \textbfK.~Zhang and Y. Ma. 'Control of regenerative braking systems for four-wheel-independently-actuated electric vehicles.' Mechatronics. 2018."
+citation: "J. Chen and J. Yu and K. Zhang and Y. Ma. 'Control of regenerative braking systems for four-wheel-independently-actuated electric vehicles.' Mechatronics. 2018."
 ---
 
 <details>
@@ -13,7 +14,7 @@ citation: "J. Chen and J. Yu and \textbfK.~Zhang and Y. Ma. 'Control of regenera
 
 ```bibtex
 @article {YuMECH2018,
-	author={J. Chen and J. Yu and \textbf{K.~Zhang} and Y. Ma}, 
+	author={J. Chen and J. Yu and K. Zhang and Y. Ma}, 
 	title={Control of regenerative braking systems for four-wheel-independently-actuated electric vehicles},
 	journal={Mechatronics}, 
 	volume={50},
