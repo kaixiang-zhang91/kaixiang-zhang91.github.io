@@ -1,11 +1,12 @@
 ---
 title: "Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-deep-deepc-data-enabled-predictive-control-with-low-or-no-online-optimization-us
 date: 2025-03-01
 venue: "AIChE Journal"
 paperurl: ""
-citation: "Zhang, Xuewen and \textbfK.~Zhang and Li, Zhaojian and Yin, Xunyuan. 'Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning.' AIChE Journal. 2025."
+citation: "Zhang, Xuewen and Zhang, Kaixiang and Li, Zhaojian and Yin, Xunyuan. 'Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning.' AIChE Journal. 2025."
 ---
 
 <details>
@@ -13,8 +14,8 @@ citation: "Zhang, Xuewen and \textbfK.~Zhang and Li, Zhaojian and Yin, Xunyuan. 
 
 ```bibtex
 @article{ZhangarAIChE2025,
-	title={{Deep DeePC}: Data-enabled predictive control with low or no online optimization using deep learning},
-	author={Zhang, Xuewen and \textbf{K.~Zhang} and Li, Zhaojian and Yin, Xunyuan},
+	title={Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning},
+	author={Zhang, Xuewen and Zhang, Kaixiang and Li, Zhaojian and Yin, Xunyuan},
 	journal={AIChE Journal},
 	pages = {e18644},
 	volume={71},
