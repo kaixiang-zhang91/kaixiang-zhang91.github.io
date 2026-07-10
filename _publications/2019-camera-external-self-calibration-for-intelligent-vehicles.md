@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-camera-external-self-calibration-for-intelligent-vehicles
 date: 2019-06-01
 year: '2019'
-authors: 'Guoqing Yu, Jian Chen, <strong>K. Zhang</strong>, and Xinfang Zhang'
+authors: 'Guoqing Yu, Jian Chen, <strong>Kaixiang Zhang</strong>, and Xinfang Zhang'
 venue: 'Proceedings of the IEEE International Symposium on Industrial Electronics'
 category: 'conferences'
 paperurl: 'https://doi.org/10.1109/ISIE.2019.8781297'
@@ -12,7 +12,7 @@ arxivurl: ''
 codeurl: ''
 videourl: ''
 slidesurl: ''
-doi: '10.1109/ISIE.2019.8781297'
+doi: ''
 highlight: ''
 citation: 'Guoqing Yu, Jian Chen, K. Zhang, and Xinfang Zhang. "Camera External Self-Calibration for Intelligent Vehicles." Proceedings of the IEEE International Symposium on Industrial Electronics. 2019.'
 bibtex_key: 'yuISIE2019'
