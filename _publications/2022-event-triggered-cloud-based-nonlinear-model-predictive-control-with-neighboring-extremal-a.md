@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2022-event-triggered-cloud-based-nonlinear-model-predictive-control-with-neighboring-extremal-a
 date: 2022-12-01
 year: '2022'
-authors: 'Amin Vahidi-Moghaddam, Zhaojian Li, Nan Li, <strong>K. Zhang</strong>, and Yan Wang'
+authors: 'Amin Vahidi-Moghaddam, Zhaojian Li, Nan Li, <strong>Kaixiang Zhang</strong>, and Yan Wang'
 venue: 'Proceedings of the IEEE Conference on Decision and Control'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/9992783'
 arxivurl: ''
 codeurl: ''
 videourl: ''
