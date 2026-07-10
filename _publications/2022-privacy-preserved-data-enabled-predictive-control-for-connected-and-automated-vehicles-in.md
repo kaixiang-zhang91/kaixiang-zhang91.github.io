@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2022-privacy-preserved-data-enabled-predictive-control-for-connected-and-automated-vehicles-in
 date: 2022-10-01
 year: '2022'
-authors: '<strong>K. Zhang</strong>, Kaian Chen, Zhaojian Li, and Yang Zheng'
+authors: '<strong>Kaixiang Zhang</strong>, Kaian Chen, Zhaojian Li, and Yang Zheng'
 venue: 'Proceedings of the IEEE International Conference on Intelligent Transportation Systems'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/9922201'
 arxivurl: ''
 codeurl: ''
 videourl: ''
