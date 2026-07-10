@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-learning-based-data-enabled-economic-predictive-control-with-convex-optimization-for-nonli
 date: 2026-09-01
 year: '2026'
-authors: 'Mingxue Yan, Xuewen Zhang, <strong>K. Zhang</strong>, Zhaojian Li, and Xunyuan Yin'
+authors: 'Mingxue Yan, Xuewen Zhang, <strong>Kaixiang Zhang</strong>, Zhaojian Li, and Xunyuan Yin'
 venue: 'Control Engineering Practice'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.conengprac.2026.107026'
 arxivurl: ''
 codeurl: ''
 videourl: ''
