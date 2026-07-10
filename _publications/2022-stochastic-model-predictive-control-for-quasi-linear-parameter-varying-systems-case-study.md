@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2022-stochastic-model-predictive-control-for-quasi-linear-parameter-varying-systems-case-study
 date: 2022-06-01
 year: '2022'
-authors: 'K. Chen, <strong>K. Zhang</strong>, Z. Li, Y. Wang, K. Wu, and U. Kalabi\''c'
+authors: 'Kaian Chen, <strong>Kaixiang Zhang</strong>, Zhaojian Li, Yan Wang, Kai Wu, Uroš V. Kalabić'
 venue: 'Journal of Dynamic Systems, Measurement and Control'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1115/1.4053887'
 arxivurl: ''
 codeurl: ''
 videourl: ''
