@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-drivable-road-reconstruction-for-intelligent-vehicles-based-on-two-view-geometry
 date: 2017-05-01
 year: '2017'
-authors: 'B. Jia, J. Chen, and <strong>K. Zhang</strong>'
+authors: 'Bingxi Jia, Jian Chen, and <strong>Kaixiang Zhang</strong>'
 venue: 'IEEE Transactions on Industrial Electronics'
 category: 'manuscripts'
 paperurl: 'https://doi.org/10.1109/TIE.2016.2644601'
@@ -12,7 +12,7 @@ arxivurl: ''
 codeurl: ''
 videourl: ''
 slidesurl: ''
-doi: '10.1109/TIE.2016.2644601'
+doi: ''
 highlight: ''
 citation: 'B. Jia, J. Chen, and K. Zhang. "Drivable Road Reconstruction for Intelligent Vehicles Based on Two-View Geometry." IEEE Transactions on Industrial Electronics. 2017.'
 bibtex_key: 'JiaTIE2017'
