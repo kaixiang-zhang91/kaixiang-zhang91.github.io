@@ -18,13 +18,16 @@ main:
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Group"
+    url: /group/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
@@ -32,5 +35,5 @@ main:
   # - title: "Contact"
   #   url: /contact/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
