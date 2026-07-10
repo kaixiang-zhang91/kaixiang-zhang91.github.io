@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2018-identification-of-a-moving-object-s-velocity-and-range-with-a-static-moving-camera-system
 date: 2018-07-01
 year: '2018'
-authors: 'J. Chen, <strong>K. Zhang</strong>, B. Jia, and Y. Gao'
+authors: 'Jian Chen, <strong>Kaixiang Zhang</strong>, Bingxi Jia, and Yanyan Gao'
 venue: 'IEEE Transactions on Automatic Control'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8048545'
 arxivurl: ''
 codeurl: ''
 videourl: ''
