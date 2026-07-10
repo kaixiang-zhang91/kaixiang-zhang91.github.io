@@ -1,11 +1,21 @@
 ---
-title: "Safe Data-Driven Predictive Control"
+title: 'Safe Data-Driven Predictive Control'
 collection: publications
 permalink: /publication/2025-safe-data-driven-predictive-control
 date: 2025-04-01
-venue: "IEEE Transactions on Automation Science and Engineering"
-paperurl: ""
-citation: "A. Vahidi-Moghaddam and K. Chen and \textbfK.~Zhang and Z. Li and Y. Wang and K. Wu. 'Safe Data-Driven Predictive Control.' IEEE Transactions on Automation Science and Engineering. 2025."
+year: '2025'
+authors: 'A. Vahidi-Moghaddam, K. Chen, <strong>K. Zhang</strong>, Z. Li, Y. Wang, and K. Wu'
+venue: 'IEEE Transactions on Automation Science and Engineering'
+category: 'manuscripts'
+paperurl: ''
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: ''
+highlight: ''
+citation: 'A. Vahidi-Moghaddam, K. Chen, K. Zhang, Z. Li, Y. Wang, and K. Wu. "Safe Data-Driven Predictive Control." IEEE Transactions on Automation Science and Engineering. 2025.'
+bibtex_key: 'VahidiTASE2025'
 ---
 
 <details>

@@ -1,11 +1,21 @@
 ---
-title: "Model-free Vehicle Rollover Prevention: A Data-driven Predictive Control Approach"
+title: 'Model-free Vehicle Rollover Prevention: A Data-driven Predictive Control Approach'
 collection: publications
 permalink: /publication/2026-model-free-vehicle-rollover-prevention-a-data-driven-predictive-control-approach
 date: 2026-07-01
-venue: "Journal of Dynamic Systems, Measurement and Control"
-paperurl: ""
-citation: "Hajidavalloo, Mohammad R and \textbfK.~Zhang and Srivastava, Vaibhav and Li, Zhaojian. 'Model-free Vehicle Rollover Prevention: A Data-driven Predictive Control Approach.' Journal of Dynamic Systems, Measurement and Control. 2026."
+year: '2026'
+authors: 'Mohammad R Hajidavalloo, <strong>K. Zhang</strong>, Vaibhav Srivastava, and Zhaojian Li'
+venue: 'Journal of Dynamic Systems, Measurement and Control'
+category: 'manuscripts'
+paperurl: ''
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: ''
+highlight: ''
+citation: 'Mohammad R Hajidavalloo, K. Zhang, Vaibhav Srivastava, and Zhaojian Li. "Model-free Vehicle Rollover Prevention: A Data-driven Predictive Control Approach." Journal of Dynamic Systems, Measurement and Control. 2026.'
+bibtex_key: 'HajidavallooarJDSMC2026'
 ---
 
 <details>

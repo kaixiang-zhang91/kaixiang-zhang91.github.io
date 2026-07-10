@@ -1,11 +1,21 @@
 ---
-title: "Trifocal tensor-based 6 DOF visual servoing"
+title: 'Trifocal tensor-based 6 DOF visual servoing'
 collection: publications
 permalink: /publication/2019-trifocal-tensor-based-6-dof-visual-servoing
 date: 2019-09-01
-venue: "International Journal of Robotics Research"
-paperurl: ""
-citation: "\textbfK.~Zhang and F. Chaumette and J. Chen. 'Trifocal tensor-based 6 DOF visual servoing.' International Journal of Robotics Research. 2019."
+year: '2019'
+authors: '<strong>K. Zhang</strong>, F. Chaumette, and J. Chen'
+venue: 'International Journal of Robotics Research'
+category: 'manuscripts'
+paperurl: ''
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: ''
+highlight: ''
+citation: 'K. Zhang, F. Chaumette, and J. Chen. "Trifocal tensor-based 6 DOF visual servoing." International Journal of Robotics Research. 2019.'
+bibtex_key: 'ZhangIJRR2018'
 ---
 
 <details>

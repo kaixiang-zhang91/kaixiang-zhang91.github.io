@@ -6,31 +6,51 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}">
+      my Google Scholar profile
+    </a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+{% assign publication_number = 0 %}
+
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+
+  {% for category in site.publication_category %}
+    {% assign category_posts = site.publications
+      | where: "category", category[0]
+      | sort: "date"
+      | reverse %}
+
+    {% if category_posts.size > 0 %}
+      <h2 class="publication-section-title">
+        {{ category[1].title }}
+      </h2>
+
+      <div class="publication-list">
+        {% for post in category_posts %}
+          {% assign publication_number = publication_number | plus: 1 %}
+          {% include publication-single.html number=publication_number %}
+        {% endfor %}
+      </div>
+    {% endif %}
   {% endfor %}
+
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+
+  {% assign sorted_publications = site.publications
+    | sort: "date"
+    | reverse %}
+
+  <div class="publication-list">
+    {% for post in sorted_publications %}
+      {% assign publication_number = publication_number | plus: 1 %}
+      {% include publication-single.html number=publication_number %}
+    {% endfor %}
+  </div>
+
 {% endif %}
-
-
-

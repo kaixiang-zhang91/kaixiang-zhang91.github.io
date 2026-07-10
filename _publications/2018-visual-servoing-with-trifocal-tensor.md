@@ -1,11 +1,21 @@
 ---
-title: "Visual servoing with trifocal tensor"
+title: 'Visual servoing with trifocal tensor'
 collection: publications
 permalink: /publication/2018-visual-servoing-with-trifocal-tensor
 date: 2018-12-01
-venue: "Proceedings of the IEEE Conference on Decision and Control"
-paperurl: ""
-citation: "\textbfK.~Zhang and J. Chen and F. Chaumette. 'Visual servoing with trifocal tensor.' Proceedings of the IEEE Conference on Decision and Control. 2018."
+year: '2018'
+authors: '<strong>K. Zhang</strong>, J. Chen, and F. Chaumette'
+venue: 'Proceedings of the IEEE Conference on Decision and Control'
+category: 'conferences'
+paperurl: ''
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: ''
+highlight: ''
+citation: 'K. Zhang, J. Chen, and F. Chaumette. "Visual servoing with trifocal tensor." Proceedings of the IEEE Conference on Decision and Control. 2018.'
+bibtex_key: 'zhangCDC2018'
 ---
 
 <details>

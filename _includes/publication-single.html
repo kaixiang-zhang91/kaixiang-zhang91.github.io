@@ -1,0 +1,74 @@
+{% assign publication_number = include.number %}
+
+<div class="publication-entry">
+  <div class="publication-number">
+    {{ publication_number }}.
+  </div>
+
+  <div class="publication-content">
+
+    <div class="publication-title">
+      {% if post.paperurl and post.paperurl != "" %}
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">
+          {{ post.title }}
+        </a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+
+      {% if post.highlight and post.highlight != "" %}
+        <span class="publication-highlight">
+          ({{ post.highlight }})
+        </span>
+      {% endif %}
+    </div>
+
+    {% if post.authors and post.authors != "" %}
+      <div class="publication-authors">
+        {{ post.authors }}
+      </div>
+    {% endif %}
+
+    <div class="publication-venue">
+      {% if post.venue and post.venue != "" %}
+        <em>{{ post.venue }}</em>
+      {% endif %}
+
+      {% if post.year and post.year != "" %}
+        {% if post.venue and post.venue != "" %}, {% endif %}
+        {{ post.year }}
+      {% else %}
+        {% assign publication_year = post.date | date: "%Y" %}
+        {% if post.venue and post.venue != "" %}, {% endif %}
+        {{ publication_year }}
+      {% endif %}
+    </div>
+
+    <div class="publication-links">
+      {% if post.paperurl and post.paperurl != "" %}
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">[Paper]</a>
+      {% endif %}
+
+      {% if post.arxivurl and post.arxivurl != "" %}
+        <a href="{{ post.arxivurl }}" target="_blank" rel="noopener">[arXiv]</a>
+      {% endif %}
+
+      {% if post.codeurl and post.codeurl != "" %}
+        <a href="{{ post.codeurl }}" target="_blank" rel="noopener">[Code]</a>
+      {% endif %}
+
+      {% if post.doi and post.doi != "" %}
+        <a href="https://doi.org/{{ post.doi }}" target="_blank" rel="noopener">[DOI]</a>
+      {% endif %}
+
+      {% if post.slidesurl and post.slidesurl != "" %}
+        <a href="{{ post.slidesurl }}" target="_blank" rel="noopener">[Slides]</a>
+      {% endif %}
+
+      {% if post.videourl and post.videourl != "" %}
+        <a href="{{ post.videourl }}" target="_blank" rel="noopener">[Video]</a>
+      {% endif %}
+    </div>
+
+  </div>
+</div>

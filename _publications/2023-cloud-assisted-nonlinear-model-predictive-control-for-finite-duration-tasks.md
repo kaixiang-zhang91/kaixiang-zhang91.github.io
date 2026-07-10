@@ -1,11 +1,21 @@
 ---
-title: "Cloud-Assisted Nonlinear Model Predictive Control for Finite-Duration Tasks"
+title: 'Cloud-Assisted Nonlinear Model Predictive Control for Finite-Duration Tasks'
 collection: publications
 permalink: /publication/2023-cloud-assisted-nonlinear-model-predictive-control-for-finite-duration-tasks
 date: 2023-09-01
-venue: "IEEE Transactions on Automatic Control"
-paperurl: ""
-citation: "N. Li and \textbfK.~Zhang and Z. Li and V. Srivastava and X. Yin. 'Cloud-Assisted Nonlinear Model Predictive Control for Finite-Duration Tasks.' IEEE Transactions on Automatic Control. 2023."
+year: '2023'
+authors: 'N. Li, <strong>K. Zhang</strong>, Z. Li, V. Srivastava, and X. Yin'
+venue: 'IEEE Transactions on Automatic Control'
+category: 'manuscripts'
+paperurl: ''
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: ''
+highlight: ''
+citation: 'N. Li, K. Zhang, Z. Li, V. Srivastava, and X. Yin. "Cloud-Assisted Nonlinear Model Predictive Control for Finite-Duration Tasks." IEEE Transactions on Automatic Control. 2023.'
+bibtex_key: 'LiTAC2023'
 ---
 
 <details>

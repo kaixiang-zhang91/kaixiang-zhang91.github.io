@@ -1,11 +1,21 @@
 ---
-title: "Dimension Reduction for Efficient Data-Enabled Predictive Control"
+title: 'Dimension Reduction for Efficient Data-Enabled Predictive Control'
 collection: publications
 permalink: /publication/2023-dimension-reduction-for-efficient-data-enabled-predictive-control
 date: 2023-10-01
-venue: "IEEE Control Systems Letters"
-paperurl: ""
-citation: "\textbfK.~Zhang and Zheng, Yang and Shang, Chao and Li, Zhaojian. 'Dimension Reduction for Efficient Data-Enabled Predictive Control.' IEEE Control Systems Letters. 2023."
+year: '2023'
+authors: '<strong>K. Zhang</strong>, Yang Zheng, Chao Shang, and Zhaojian Li'
+venue: 'IEEE Control Systems Letters'
+category: 'manuscripts'
+paperurl: ''
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: ''
+highlight: ''
+citation: 'K. Zhang, Yang Zheng, Chao Shang, and Zhaojian Li. "Dimension Reduction for Efficient Data-Enabled Predictive Control." IEEE Control Systems Letters. 2023.'
+bibtex_key: 'ZhangCSL2023'
 ---
 
 <details>

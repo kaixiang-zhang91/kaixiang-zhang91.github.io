@@ -1,11 +1,21 @@
 ---
-title: "Data-Enabled Predictive Control for Flexible Spacecraft"
+title: 'Data-Enabled Predictive Control for Flexible Spacecraft'
 collection: publications
 permalink: /publication/2026-data-enabled-predictive-control-for-flexible-spacecraft
 date: 2026-06-01
-venue: "Journal of Dynamic Systems, Measurement and Control"
-paperurl: ""
-citation: "Wang, Huanqing and \textbfK.~Zhang and Vahidi-Moghaddam, Amin and An, Haowei and Li, Nan and Huang, Daning and Li, Zhaojian. 'Data-Enabled Predictive Control for Flexible Spacecraft.' Journal of Dynamic Systems, Measurement and Control. 2026."
+year: '2026'
+authors: 'Huanqing Wang, <strong>K. Zhang</strong>, Amin Vahidi-Moghaddam, Haowei An, Nan Li, Daning Huang, and Zhaojian Li'
+venue: 'Journal of Dynamic Systems, Measurement and Control'
+category: 'manuscripts'
+paperurl: ''
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: ''
+highlight: ''
+citation: 'Huanqing Wang, K. Zhang, Amin Vahidi-Moghaddam, Haowei An, Nan Li, Daning Huang, and Zhaojian Li. "Data-Enabled Predictive Control for Flexible Spacecraft." Journal of Dynamic Systems, Measurement and Control. 2026.'
+bibtex_key: 'WangJDSMC2026'
 ---
 
 <details>

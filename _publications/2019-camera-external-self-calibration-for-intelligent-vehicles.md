@@ -1,14 +1,22 @@
 ---
-title: "Camera External Self-Calibration for Intelligent Vehicles"
+title: 'Camera External Self-Calibration for Intelligent Vehicles'
 collection: publications
 permalink: /publication/2019-camera-external-self-calibration-for-intelligent-vehicles
 date: 2019-06-01
-venue: "Proceedings of the IEEE International Symposium on Industrial Electronics"
-paperurl: "https://doi.org/10.1109/ISIE.2019.8781297"
-citation: "Yu, Guoqing and Chen, Jian and \textbfK.~Zhang and Zhang, Xinfang. 'Camera External Self-Calibration for Intelligent Vehicles.' Proceedings of the IEEE International Symposium on Industrial Electronics. 2019."
+year: '2019'
+authors: 'Guoqing Yu, Jian Chen, <strong>K. Zhang</strong>, and Xinfang Zhang'
+venue: 'Proceedings of the IEEE International Symposium on Industrial Electronics'
+category: 'conferences'
+paperurl: 'https://doi.org/10.1109/ISIE.2019.8781297'
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: '10.1109/ISIE.2019.8781297'
+highlight: ''
+citation: 'Guoqing Yu, Jian Chen, K. Zhang, and Xinfang Zhang. "Camera External Self-Calibration for Intelligent Vehicles." Proceedings of the IEEE International Symposium on Industrial Electronics. 2019.'
+bibtex_key: 'yuISIE2019'
 ---
-
-**DOI:** [10.1109/ISIE.2019.8781297](https://doi.org/10.1109/ISIE.2019.8781297)
 
 <details>
 <summary>BibTeX</summary>

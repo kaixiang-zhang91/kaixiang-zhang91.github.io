@@ -1,22 +1,29 @@
 ---
-title: "Drivable Road Reconstruction for Intelligent Vehicles Based on Two-View Geometry"
+title: 'Drivable Road Reconstruction for Intelligent Vehicles Based on Two-View Geometry'
 collection: publications
-category: manuscripts
 permalink: /publication/2017-drivable-road-reconstruction-for-intelligent-vehicles-based-on-two-view-geometry
 date: 2017-05-01
-venue: "IEEE Transactions on Industrial Electronics"
-paperurl: "https://doi.org/10.1109/TIE.2016.2644601"
-citation: "B. Jia and J. Chen and K. Zhang. 'Drivable Road Reconstruction for Intelligent Vehicles Based on Two-View Geometry.' IEEE Transactions on Industrial Electronics. 2017."
+year: '2017'
+authors: 'B. Jia, J. Chen, and <strong>K. Zhang</strong>'
+venue: 'IEEE Transactions on Industrial Electronics'
+category: 'manuscripts'
+paperurl: 'https://doi.org/10.1109/TIE.2016.2644601'
+arxivurl: ''
+codeurl: ''
+videourl: ''
+slidesurl: ''
+doi: '10.1109/TIE.2016.2644601'
+highlight: ''
+citation: 'B. Jia, J. Chen, and K. Zhang. "Drivable Road Reconstruction for Intelligent Vehicles Based on Two-View Geometry." IEEE Transactions on Industrial Electronics. 2017.'
+bibtex_key: 'JiaTIE2017'
 ---
-
-**DOI:** [10.1109/TIE.2016.2644601](https://doi.org/10.1109/TIE.2016.2644601)
 
 <details>
 <summary>BibTeX</summary>
 
 ```bibtex
 @ARTICLE{JiaTIE2017, 
-	author={B. Jia and J. Chen and K. Zhang}, 
+	author={B. Jia and J. Chen and \textbf{K.~Zhang} }, 
 	journal={IEEE Transactions on Industrial Electronics}, 
 	title={Drivable Road Reconstruction for Intelligent Vehicles Based on Two-View Geometry}, 
 	year={2017}, 
