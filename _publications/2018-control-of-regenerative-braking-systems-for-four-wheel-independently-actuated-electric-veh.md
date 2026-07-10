@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2018-control-of-regenerative-braking-systems-for-four-wheel-independently-actuated-electric-veh
 date: 2018-04-01
 year: '2018'
-authors: 'J. Chen, J. Yu, <strong>K. Zhang</strong>, and Y. Ma'
+authors: 'Jian Chen, Jiangze Yu, <strong>Kaixiang Zhang</strong>, and Ya Ma'
 venue: 'Mechatronics'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.mechatronics.2017.06.005'
 arxivurl: ''
 codeurl: ''
 videourl: ''
