@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-differentially-private-distributed-model-predictive-control-of-linear-discrete-time-system
 date: 2026-04-01
 year: '2026'
-authors: '<strong>K. Zhang</strong>, Yongqiang Wang, Ziyou Song, and Zhaojian Li'
+authors: '<strong>Kaixiang Zhang</strong>, Yongqiang Wang, Ziyou Song, and Zhaojian Li'
 venue: 'IEEE Transactions on Automatic Control'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/11223096'
 arxivurl: ''
 codeurl: ''
 videourl: ''
