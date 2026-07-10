@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-a-modular-dual-arm-apple-harvesting-robot-with-enhanced-field-performance
 date: 2026-01-01
 year: '2026'
-authors: 'Keyi Zhu, Kyle Lammers, Chaaran Arunachalam, <strong>K. Zhang</strong>, Renfu Lu, and Zhaojian Li'
+authors: 'Keyi Zhu, Kyle Lammers, Chaaran Arunachalam, <strong>Kaixiang Zhang</strong>, Renfu Lu, and Zhaojian Li'
 venue: 'arXiv preprint arXiv:2606.14089'
 category: 'preprints'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2606.14089'
 arxivurl: ''
 codeurl: ''
 videourl: ''
