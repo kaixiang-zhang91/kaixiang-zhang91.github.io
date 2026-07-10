@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-an-automated-apple-harvesting-robot-from-system-design-to-field-evaluation
 date: 2024-10-01
 year: '2024'
-authors: '<strong>K. Zhang</strong>, K. Lammers, P. Chu, Z. Li, and R. Lu'
+authors: '<strong>Kaixiang Zhang</strong>, Kyle Lammers, Pengyu Chu, Zhaojian Li, and Renfu Lu'
 venue: 'Journal of Field Robotics'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1002/rob.22268'
 arxivurl: ''
 codeurl: ''
 videourl: ''
