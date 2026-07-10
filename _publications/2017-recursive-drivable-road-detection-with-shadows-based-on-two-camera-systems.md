@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2017-recursive-drivable-road-detection-with-shadows-based-on-two-camera-systems
 date: 2017-08-01
 year: '2017'
-authors: 'B. Jia, J. Chen, and <strong>K. Zhang</strong>'
+authors: 'Bingxi Jia, Jian Chen, and <strong>Kaixiang Zhang</strong>'
 venue: 'Machine Vision and Applications'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://link.springer.com/article/10.1007/s00138-017-0858-y'
 arxivurl: ''
 codeurl: ''
 videourl: ''
