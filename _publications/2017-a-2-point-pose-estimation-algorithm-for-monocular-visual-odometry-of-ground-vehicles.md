@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2017-a-2-point-pose-estimation-algorithm-for-monocular-visual-odometry-of-ground-vehicles
 date: 2017-09-01
 year: '2017'
-authors: 'Y. Gao, J. Chen, <strong>K. Zhang</strong>, and B. Jia'
+authors: 'Yanyan Gao, Jian Chen, <strong>Kaixiang Zhang</strong>, and Bingxi Jia'
 venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8205969'
 arxivurl: ''
 codeurl: ''
 videourl: ''
