@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2018-adaptive-tracking-for-mimo-nonlinear-systems-with-unknown-fast-time-varying-parameters
 date: 2018-09-01
 year: '2018'
-authors: 'Zhongle Wu, Jian Chen, Chengshuai Wu, and <strong>K. Zhang</strong>'
+authors: 'Zhongle Wu, Jian Chen, Chengshuai Wu, and <strong>Kaixiang Zhang</strong>'
 venue: 'International Journal of Robust and Nonlinear Control'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/rnc.4121'
 arxivurl: ''
 codeurl: ''
 videourl: ''
