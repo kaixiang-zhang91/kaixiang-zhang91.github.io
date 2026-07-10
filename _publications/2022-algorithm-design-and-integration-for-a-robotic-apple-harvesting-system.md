@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2022-algorithm-design-and-integration-for-a-robotic-apple-harvesting-system
 date: 2022-10-01
 year: '2022'
-authors: '<strong>K. Zhang</strong>, K. Lammers, P. Chu, N. Dickinson, Z. Li, and R. Lu'
+authors: '<strong>Kaixiang Zhang</strong>, Kyle Lammers, Pengyu Chu, Nathan Dickinson, Zhaojian Li, and Renfu Lu'
 venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/9981417'
 arxivurl: ''
 codeurl: ''
 videourl: ''
