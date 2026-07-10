@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2025-direct-data-driven-predictive-control-for-a-three-dimensional-cable-driven-soft-robotic-ar
 date: 2025-01-01
 year: '2025'
-authors: 'Cheng Ouyang, Moeen Ul Islam, Dong Chen, <strong>K. Zhang</strong>, Zhaojian Li, and Xiaobo Tan'
+authors: 'Cheng Ouyang, Moeen Ul Islam, Dong Chen, <strong>Kaixiang Zhang</strong>, Zhaojian Li, and Xiaobo Tan'
 venue: 'arXiv preprint arXiv:2510.08953'
 category: 'preprints'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2510.08953'
 arxivurl: ''
 codeurl: ''
 videourl: ''
