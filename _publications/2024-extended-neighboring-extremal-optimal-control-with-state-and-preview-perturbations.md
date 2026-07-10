@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-extended-neighboring-extremal-optimal-control-with-state-and-preview-perturbations
 date: 2024-10-01
 year: '2024'
-authors: 'A. Vahidi-Moghaddam, <strong>K. Zhang</strong>, Z. Li, X. Yin, Z. Song, and Y. Wang'
+authors: 'Amin Vahidi-Moghaddam, <strong>Kaixiang Zhang</strong>, Zhaojian Li, Xunyuan Yin, Ziyou Song, and Yan Wang'
 venue: 'IEEE Transactions on Automation Science and Engineering'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10255713'
 arxivurl: ''
 codeurl: ''
 videourl: ''
