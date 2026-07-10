@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2017-asymptotic-moving-object-tracking-with-trajectory-tracking-extension-a-homography-based-ap
 date: 2017-12-01
 year: '2017'
-authors: '<strong>K. Zhang</strong>, Jian Chen, and Bingxi Jia'
+authors: '<strong>Kaixiang Zhang</strong>, Jian Chen, and Bingxi Jia'
 venue: 'International Journal of Robust and Nonlinear Control'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3823?casa_token=yVU4qHX5CzoAAAAA%3AmcG2pvAWmr7pD4bJn1XNcpTQKws9K8TRJW61ErcCmm1d7ddh3GES8giE-oit8IgEQGqaiPFpDVTsTCyx'
 arxivurl: ''
 codeurl: ''
 videourl: ''
