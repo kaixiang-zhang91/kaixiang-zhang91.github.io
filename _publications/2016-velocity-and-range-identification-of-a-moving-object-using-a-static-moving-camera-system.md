@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2016-velocity-and-range-identification-of-a-moving-object-using-a-static-moving-camera-system
 date: 2016-12-01
 year: '2016'
-authors: '<strong>K. Zhang</strong>, J. Chen, B. Jia, and Y. Gao'
+authors: '<strong>Kaixiang Zhang</strong>, Jian Chen, Bingxi Jia, and Yanyan Gao'
 venue: 'Proceedings of the IEEE Conference on Decision and Control'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/7799369'
 arxivurl: ''
 codeurl: ''
 videourl: ''
