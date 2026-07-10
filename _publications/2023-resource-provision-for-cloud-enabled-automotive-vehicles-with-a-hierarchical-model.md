@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2023-resource-provision-for-cloud-enabled-automotive-vehicles-with-a-hierarchical-model
 date: 2023-03-01
 year: '2023'
-authors: '<strong>K. Zhang</strong>, Z. Li, X. Yin, and L. Han'
+authors: '<strong>Kaixiang Zhang</strong>, Zhaojian Li, Xiang Yin, and Liang Han'
 venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/9875229'
 arxivurl: ''
 codeurl: ''
 videourl: ''
