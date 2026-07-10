@@ -20,6 +20,14 @@
   font-size: 0.95rem;
 }
 
+.publication-bullet {
+    flex: 0 0 1.2rem;
+    margin-right: 0.6rem;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: #333;
+}
+
 .publication-content {
   flex: 1;
   min-width: 0;
