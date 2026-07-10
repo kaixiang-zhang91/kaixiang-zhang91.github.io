@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2021-system-design-and-control-of-an-apple-harvesting-robot
 date: 2021-11-01
 year: '2021'
-authors: '<strong>K. Zhang</strong>, K. Lammers, P. Chu, Z. Li, and R. Lu'
+authors: '<strong>Kaixiang Zhang</strong>, Kyle Lammers, Pengyu Chu, Zhaojian Li, and Renfu Lu'
 venue: 'Mechatronics'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.mechatronics.2021.102644'
 arxivurl: ''
 codeurl: ''
 videourl: ''
