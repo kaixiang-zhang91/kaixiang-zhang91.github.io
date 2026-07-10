@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-simultaneous-pose-estimation-and-velocity-estimation-of-an-ego-vehicle-and-moving-obstacle
 date: 2022-08-01
 year: '2022'
-authors: 'Q. Wang, J. Chen, J. Deng, X. Zhang, and <strong>K. Zhang</strong>'
+authors: 'Qi Wang, Jian Chen, Jianqiang Deng, Xinfang Zhang, and <strong>Kaixiang Zhang</strong>'
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 category: 'manuscripts'
 paperurl: 'https://doi.org/10.1109/TITS.2021.3109936'
@@ -12,7 +12,7 @@ arxivurl: ''
 codeurl: ''
 videourl: ''
 slidesurl: ''
-doi: '10.1109/TITS.2021.3109936'
+doi: ''
 highlight: ''
 citation: 'Q. Wang, J. Chen, J. Deng, X. Zhang, and K. Zhang. "Simultaneous Pose Estimation and Velocity Estimation of an Ego Vehicle and Moving Obstacles Using LiDAR Information Only." IEEE Transactions on Intelligent Transportation Systems. 2022.'
 bibtex_key: 'WangTITS2022'
