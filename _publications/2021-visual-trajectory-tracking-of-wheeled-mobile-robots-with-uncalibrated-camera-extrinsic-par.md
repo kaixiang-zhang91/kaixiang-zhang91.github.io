@@ -4,15 +4,15 @@ collection: publications
 permalink: /publication/2021-visual-trajectory-tracking-of-wheeled-mobile-robots-with-uncalibrated-camera-extrinsic-par
 date: 2021-11-01
 year: '2021'
-authors: '<strong>K. Zhang</strong>, J. Chen, G. Yu, X. Zhang, and Z. Li'
+authors: '<strong>Kaixiang Zhang</strong>, Jian Chen, Guoqing Yu, Xinfang Zhang, and Zhaojian Li'
 venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
 category: 'manuscripts'
-paperurl: 'https://doi.org/doi: 10.1109/TSMC.2020.2967786'
+paperurl: 'https://ieeexplore.ieee.org/document/8984727'
 arxivurl: ''
 codeurl: ''
 videourl: ''
 slidesurl: ''
-doi: 'doi: 10.1109/TSMC.2020.2967786'
+doi: ''
 highlight: ''
 citation: 'K. Zhang, J. Chen, G. Yu, X. Zhang, and Z. Li. "Visual Trajectory Tracking of Wheeled Mobile Robots With Uncalibrated Camera Extrinsic Parameters." IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2021.'
 bibtex_key: 'ZhangTSMCS2020'
