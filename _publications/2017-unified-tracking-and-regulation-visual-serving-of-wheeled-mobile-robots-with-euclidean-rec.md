@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2017-unified-tracking-and-regulation-visual-serving-of-wheeled-mobile-robots-with-euclidean-rec
 date: 2017-05-01
 year: '2017'
-authors: '<strong>K. Zhang</strong>, J. Chen, B. Jia, and Y. Li'
+authors: '<strong>Kaixiang Zhang</strong>, Jian Chen, Bingxi Jia, and Yang Li'
 venue: 'Proceedings of the American Control Conference'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/7963236'
 arxivurl: ''
 codeurl: ''
 videourl: ''
