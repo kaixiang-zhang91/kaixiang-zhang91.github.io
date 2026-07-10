@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2018-homography-based-visual-servo-tracking-without-derivative-measurement-of-desired-trajector
 date: 2018-12-01
 year: '2018'
-authors: '<strong>K. Zhang</strong>, J. Chen, and X. Zhang'
+authors: '<strong>Kaixiang Zhang</strong>, Jian Chen, and Xinfang Zhang'
 venue: 'Proceedings of the IEEE Conference on Decision and Control'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8619464/'
 arxivurl: ''
 codeurl: ''
 videourl: ''
