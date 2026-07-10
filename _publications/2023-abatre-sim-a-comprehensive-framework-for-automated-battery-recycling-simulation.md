@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2023-abatre-sim-a-comprehensive-framework-for-automated-battery-recycling-simulation
 date: 2023-12-01
 year: '2023'
-authors: 'Huanqing Wang, <strong>K. Zhang</strong>, Keyi Zhu, Ziyou Song, and Zhaojian Li'
+authors: 'Huanqing Wang, <strong>Kaixiang Zhang</strong>, Keyi Zhu, Ziyou Song, and Zhaojian Li'
 venue: 'Proceedings of the IEEE International Conference on Robotics and Biomimetics'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10354817'
 arxivurl: ''
 codeurl: ''
 videourl: ''
