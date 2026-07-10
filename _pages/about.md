@@ -19,4 +19,6 @@ My primary research interests lie in automation and robotics, through cross-disc
 
 **2026**
 
-- I will be starting a new chapter as a Tenure-Track Assistant Professor in the Department of Mechanical Engineering at the University of Arkansas, Fayetteville, beginning in January 2027.
+- [06/2026] Our paper [Velocity-Form Data-Enabled Predictive Control of Soft Robots under Unknown External Payloads](https://ieeexplore.ieee.org/document/11560943) was accepted for publication in the IEEE Robotics and Automation Letters.
+- [06/2026] Our paper [Deep Reinforcement Learning-Enhanced Event-Triggered Data-Driven Predictive Control for a 3D Cable-Driven Soft Robotic Arm](https://arxiv.org/abs/2606.26048) was accepted for publication in IROS2026.
+- [06/2026] I will be starting a new chapter as a Tenure-Track Assistant Professor in the Department of Mechanical Engineering at the University of Arkansas, Fayetteville, beginning in January 2027.
