@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-data-enabled-predictive-control-for-flexible-spacecraft
 date: 2026-06-01
 year: '2026'
-authors: 'Huanqing Wang, <strong>K. Zhang</strong>, Amin Vahidi-Moghaddam, Haowei An, Nan Li, Daning Huang, and Zhaojian Li'
+authors: 'Huanqing Wang, <strong>Kaixiang Zhang</strong>, Amin Vahidi-Moghaddam, Haowei An, Nan Li, Daning Huang, and Zhaojian Li'
 venue: 'Journal of Dynamic Systems, Measurement and Control'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1115/1.4071867'
 arxivurl: ''
 codeurl: ''
 videourl: ''
