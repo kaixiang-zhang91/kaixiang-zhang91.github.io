@@ -16,7 +16,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign publication_number = 0 %}
+# {% assign publication_number = 0 %}
 
 {% if site.publication_category %}
 
@@ -33,8 +33,9 @@ author_profile: true
 
       <div class="publication-list">
         {% for post in category_posts %}
-          {% assign publication_number = publication_number | plus: 1 %}
-          {% include publication-single.html number=publication_number %}
+          #{% assign publication_number = publication_number | plus: 1 %}
+          #{% include publication-single.html number=publication_number %}
+          {% include publication-single.html %}
         {% endfor %}
       </div>
     {% endif %}
