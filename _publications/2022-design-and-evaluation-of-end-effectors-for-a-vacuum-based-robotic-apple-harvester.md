@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2022-design-and-evaluation-of-end-effectors-for-a-vacuum-based-robotic-apple-harvester
 date: 2022-01-01
 year: '2022'
-authors: 'Renfu Lu, Nathan Dickinson, Kyle Lammers, <strong>K. Zhang</strong>, Pengyu Chu, and Zhaojian Li'
+authors: 'Renfu Lu, Nathan Dickinson, Kyle Lammers, <strong>Kaixiang Zhang</strong>, Pengyu Chu, and Zhaojian Li'
 venue: 'Journal of the ASABE'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://elibrary.asabe.org/abstract.asp?aid=53554'
 arxivurl: ''
 codeurl: ''
 videourl: ''
