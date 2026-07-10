@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-deep-reinforcement-learning-enhanced-event-triggered-data-driven-predictive-control-for-a
 date: 2026-01-01
 year: '2026'
-authors: 'Cheng Ouyang, Moeen Ul Islam, <strong>K. Zhang</strong>, Zhaojian Li, Xiaobo Tan, and Dong Chen'
+authors: 'Cheng Ouyang, Moeen Ul Islam, <strong>Kaixiang Zhang</strong>, Zhaojian Li, Xiaobo Tan, and Dong Chen'
 venue: 'arXiv preprint arXiv:2606.26048'
 category: 'preprints'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2606.26048'
 arxivurl: ''
 codeurl: ''
 videourl: ''
