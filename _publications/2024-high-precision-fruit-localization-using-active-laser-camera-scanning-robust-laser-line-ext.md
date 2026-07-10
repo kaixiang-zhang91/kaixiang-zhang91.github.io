@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-high-precision-fruit-localization-using-active-laser-camera-scanning-robust-laser-line-ext
 date: 2024-03-01
 year: '2024'
-authors: 'P. Chu, Z. Li, <strong>K. Zhang</strong>, K. Lammers, and R. Lu'
+authors: 'Pengyu Chu, Zhaojian Li, <strong>Kaixiang Zhang</strong>, Kyle Lammers, and Renfu Lu'
 venue: 'Smart Agricultural Technology'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.atech.2023.100391'
 arxivurl: ''
 codeurl: ''
 videourl: ''
