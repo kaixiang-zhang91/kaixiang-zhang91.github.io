@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-privacy-aware-data-driven-predictive-control-for-mixed-traffic-via-masking-techniques
 date: 2025-08-01
 year: '2025'
-authors: '<strong>K. Zhang</strong>, Yang Zheng, and Zhaojian Li'
+authors: '<strong>Kaixiang Zhang</strong>, Yang Zheng, and Zhaojian Li'
 venue: 'Proceedings of the IEEE Conference on Control Technology and Applications'
 category: 'conferences'
 paperurl: 'https://doi.org/10.1109/CCTA53793.2025.11151340'
@@ -12,7 +12,7 @@ arxivurl: ''
 codeurl: ''
 videourl: ''
 slidesurl: ''
-doi: '10.1109/CCTA53793.2025.11151340'
+doi: ''
 highlight: ''
 citation: 'K. Zhang, Yang Zheng, and Zhaojian Li. "Privacy-Aware Data-Driven Predictive Control for Mixed Traffic Via Masking Techniques." Proceedings of the IEEE Conference on Control Technology and Applications. 2025.'
 bibtex_key: 'zhang2025CCTA'
