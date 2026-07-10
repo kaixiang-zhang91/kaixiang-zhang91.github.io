@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-data-enabled-neighboring-extremal-case-study-on-model-free-trajectory-tracking-for-robotic
 date: 2026-05-01
 year: '2026'
-authors: 'Amin Vahidi-Moghaddam, Keyi Zhu, <strong>K. Zhang</strong>, Ziyou Song, and Zhaojian Li'
+authors: 'Amin Vahidi-Moghaddam, Keyi Zhu, <strong>Kaixiang Zhang</strong>, Ziyou Song, and Zhaojian Li'
 venue: 'IEEE Transactions on Control Systems Technology'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/11373092'
 arxivurl: ''
 codeurl: ''
 videourl: ''
