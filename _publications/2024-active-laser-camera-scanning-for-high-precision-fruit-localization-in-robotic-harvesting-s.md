@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-active-laser-camera-scanning-for-high-precision-fruit-localization-in-robotic-harvesting-s
 date: 2024-01-01
 year: '2024'
-authors: '<strong>K. Zhang</strong>, P. Chu, K. Lammers, Z. Li, and R. Lu'
+authors: '<strong>Kaixiang Zhang</strong>, Pengyu Chu, Kyle Lammers, Zhaojian Li, and Renfu Lu'
 venue: 'Horticulturae'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://www.mdpi.com/2311-7524/10/1/40'
 arxivurl: ''
 codeurl: ''
 videourl: ''
