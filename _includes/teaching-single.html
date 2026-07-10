@@ -1,3 +1,12 @@
+<div class="teaching-entry">
+  <h2 class="archive__item-title">
+    {% if post.permalink %}
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% else %}
+      {{ post.title }}
+    {% endif %}
+  </h2>
+
   {% if post.type %}
     <p><strong>{{ post.type }}</strong></p>
   {% endif %}
