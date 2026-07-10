@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2019-trifocal-tensor-based-6-dof-visual-servoing
 date: 2019-09-01
 year: '2019'
-authors: '<strong>K. Zhang</strong>, F. Chaumette, and J. Chen'
+authors: '<strong>Kaixiang Zhang</strong>, François Chaumette, and Jian Chen'
 venue: 'International Journal of Robotics Research'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1177/0278364919872544'
 arxivurl: ''
 codeurl: ''
 videourl: ''
