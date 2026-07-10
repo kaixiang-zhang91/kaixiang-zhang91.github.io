@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-physics-augmented-data-enabled-predictive-control-for-eco-driving-of-mixed-traffic-conside
 date: 2024-07-01
 year: '2024'
-authors: 'D. Li, <strong>K. Zhang</strong>, H. Dong, Q. Wang, Z. Li, and Z. Song'
+authors: 'Dongjun Li, <strong>Kaixiang Zhang</strong>, Haoxuan Dong, Qun Wang, Zhaojian Li, and Ziyou Song'
 venue: 'IEEE Transactions on Control Systems Technology'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10431594'
 arxivurl: ''
 codeurl: ''
 videourl: ''
