@@ -5,7 +5,7 @@ type: "Guest lectures"
 permalink: /teaching/controlSystems
 venue: "Michigan State University"
 date: 2026-03-01
-semsters:
+semesters:
   - "Spring 2023"
   - "Spring 2024"
   - "Spring 2026"
