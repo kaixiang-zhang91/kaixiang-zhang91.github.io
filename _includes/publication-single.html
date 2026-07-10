@@ -2,16 +2,16 @@
 
 <div class="publication-entry">
   <div class="publication-number">
-    {{ publication_number }}.
+    {{ - }}.
   </div>
 
   <div class="publication-content">
 
     <div class="publication-title">
       {% if post.paperurl and post.paperurl != "" %}
-          {{ post.title }}
+        <strong>{{ post.title }}</strong>
       {% else %}
-        {{ post.title }}
+        <strong>{{ post.title }}</strong>
       {% endif %}
 
       {% if post.highlight and post.highlight != "" %}
