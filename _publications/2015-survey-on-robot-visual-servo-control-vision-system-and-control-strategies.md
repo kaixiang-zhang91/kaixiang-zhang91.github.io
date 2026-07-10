@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-survey-on-robot-visual-servo-control-vision-system-and-control-strategies
 date: 2015-05-01
 year: '2015'
-authors: 'B. Jia, S. Liu, <strong>K. Zhang</strong>, and J. Chen'
+authors: 'Bingxi Jia, Shan Liu, <strong>Kaixiang Zhang</strong>, and Jian Chen'
 venue: 'Acta Automatica Sinica'
 category: 'manuscripts'
 paperurl: ''
