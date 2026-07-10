@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2016-a-constructive-stabilization-method-via-system-immersion-for-multi-input-non-affine-nonlin
 date: 2016-12-01
 year: '2016'
-authors: 'C. Wu, J. Chen, Z. Wu, L. Qu, and <strong>K. Zhang</strong>'
+authors: 'Chengshuai Wu, Jian Chen, Zhongle Wu, Lisong Qu, and <strong>Kaixiang Zhang</strong>'
 venue: 'Proceedings of the IEEE Conference on Decision and Control'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/7798447'
 arxivurl: ''
 codeurl: ''
 videourl: ''
