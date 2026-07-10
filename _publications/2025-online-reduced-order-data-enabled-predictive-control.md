@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2025-online-reduced-order-data-enabled-predictive-control
 date: 2025-10-01
 year: '2025'
-authors: 'A. Vahidi-Moghaddam, <strong>K. Zhang</strong>, Xunyuan Yin, Vaibhav Srivastava, and Zhaojian Li'
+authors: 'Amin Vahidi-Moghaddam, <strong>Kaixiang Zhang</strong>, Xunyuan Yin, Vaibhav Srivastava, and Zhaojian Li'
 venue: 'IEEE Transactions on Automation Science and Engineering'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/11196914'
 arxivurl: ''
 codeurl: ''
 videourl: ''
