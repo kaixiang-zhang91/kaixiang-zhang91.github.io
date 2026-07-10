@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2020-visual-tracking-and-depth-estimation-of-mobile-robots-without-desired-velocity-information
 date: 2020-01-01
 year: '2020'
-authors: '<strong>K. Zhang</strong>, J. Chen, Y. Li, and X. Zhang'
+authors: '<strong>Kaixiang Zhang</strong>, Jian Chen, Yang Li, and Xinfang Zhang'
 venue: 'IEEE Transactions on Cybernetics'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8478245'
 arxivurl: ''
 codeurl: ''
 videourl: ''
