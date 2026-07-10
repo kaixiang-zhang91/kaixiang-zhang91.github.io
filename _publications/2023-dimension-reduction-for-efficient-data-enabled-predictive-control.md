@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2023-dimension-reduction-for-efficient-data-enabled-predictive-control
 date: 2023-10-01
 year: '2023'
-authors: '<strong>K. Zhang</strong>, Yang Zheng, Chao Shang, and Zhaojian Li'
+authors: '<strong>Kaixiang Zhang</strong>, Yang Zheng, Chao Shang, and Zhaojian Li'
 venue: 'IEEE Control Systems Letters'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10274470'
 arxivurl: ''
 codeurl: ''
 videourl: ''
