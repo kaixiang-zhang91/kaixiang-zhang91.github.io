@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2017-trifocal-tensor-based-adaptive-visual-trajectory-tracking-control-of-mobile-robots
 date: 2017-11-01
 year: '2017'
-authors: 'J. Chen, B. Jia, and <strong>K. Zhang</strong>'
+authors: 'Jian Chen, Bingxi Jia, and <strong>Kaixiang Zhang</strong>'
 venue: 'IEEE Transactions on Cybernetics'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/7503133'
 arxivurl: ''
 codeurl: ''
 videourl: ''
