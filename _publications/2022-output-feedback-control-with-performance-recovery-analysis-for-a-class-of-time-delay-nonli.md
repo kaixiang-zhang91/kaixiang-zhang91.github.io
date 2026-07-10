@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2022-output-feedback-control-with-performance-recovery-analysis-for-a-class-of-time-delay-nonli
 date: 2022-10-01
 year: '2022'
-authors: 'Xinfang Zhang, Jian Chen, Zhongle Wu, Lalitesh Kumar, and <strong>K. Zhang</strong>'
+authors: 'Xinfang Zhang, Jian Chen, Zhongle Wu, Lalitesh Kumar, and <strong>Kaixiang Zhang</strong>'
 venue: 'Journal of the Franklin Institute'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0016003222005361?casa_token=vdfQgTjIP4YAAAAA:ebYQmjdyA8ey4Fd5KP5VI-N8WDjEuB1RvoLAP41xbedJ1PnfsE4vg2zWvj-djxtbog1PwEeX5Qdp'
 arxivurl: ''
 codeurl: ''
 videourl: ''
