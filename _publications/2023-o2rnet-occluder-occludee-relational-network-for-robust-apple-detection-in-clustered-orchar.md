@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2023-o2rnet-occluder-occludee-relational-network-for-robust-apple-detection-in-clustered-orchar
 date: 2023-10-01
 year: '2023'
-authors: 'Pengyu Chu, Zhaojian Li, <strong>K. Zhang</strong>, Dong Chen, Kyle Lammers, and Renfu Lu'
+authors: 'Pengyu Chu, Zhaojian Li, <strong>Kaixiang Zhang</strong>, Dong Chen, Kyle Lammers, and Renfu Lu'
 venue: 'Smart Agricultural Technology'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.atech.2023.100284'
 arxivurl: ''
 codeurl: ''
 videourl: ''
