@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2025-foundation-model-based-apple-ripeness-and-size-estimation-for-selective-harvesting
 date: 2025-09-01
 year: '2025'
-authors: 'Keyi Zhu, Jiajia Li, <strong>K. Zhang</strong>, Chaaran Arunachalam, Siddhartha Bhattacharya, Renfu Lu, and Zhaojian Li'
+authors: 'Keyi Zhu, Jiajia Li, <strong>Kaixiang Zhang</strong>, Chaaran Arunachalam, Siddhartha Bhattacharya, Renfu Lu, and Zhaojian Li'
 venue: 'Computers and Electronics in Agriculture'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168169925005137?casa_token=KWV4QNzhZOwAAAAA:5vQji6NHElb-FPXVdt-Lj9VWsCm-MBKWfzF8-MoOZ4nuYFaPkATBkwtsndmES1pGpKVsi9cKO780'
 arxivurl: ''
 codeurl: ''
 videourl: ''
