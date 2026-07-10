@@ -5,7 +5,7 @@ type: "Guest lectures"
 permalink: /teaching/optimalControl
 venue: "Michigan State University"
 date: 2025-03-01
-semester:
+semesters:
   - "Spring 2025"
 location: ""
 ---
