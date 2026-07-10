@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2025-detect-segment-cluster-apple-localization-for-robotic-harvesting-in-complex-orchards
 date: 2025-12-01
 year: '2025'
-authors: 'Siddhartha Bhattacharya, Chaaran Arunachalam, <strong>K. Zhang</strong>, Jiajia Li, Renfu Lu, and Zhaojian Li'
+authors: 'Siddhartha Bhattacharya, Chaaran Arunachalam, <strong>Kaixiang Zhang</strong>, Jiajia Li, Renfu Lu, and Zhaojian Li'
 venue: 'Smart Agricultural Technology'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.atech.2025.101642'
 arxivurl: ''
 codeurl: ''
 videourl: ''
