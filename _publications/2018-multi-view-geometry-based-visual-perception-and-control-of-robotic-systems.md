@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2018-multi-view-geometry-based-visual-perception-and-control-of-robotic-systems
 date: 2018-01-01
 year: '2018'
-authors: 'Jian Chen, Bingxi Jia, and <strong>K. Zhang</strong>'
+authors: 'Jian Chen, Bingxi Jia, and <strong>Kaixiang Zhang</strong>'
 venue: 'CRC Press'
-category: 'chapters'
+category: 'books'
 paperurl: ''
 arxivurl: ''
 codeurl: ''
