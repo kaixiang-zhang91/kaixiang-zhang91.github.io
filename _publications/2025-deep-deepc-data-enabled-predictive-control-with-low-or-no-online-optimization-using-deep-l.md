@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2025-deep-deepc-data-enabled-predictive-control-with-low-or-no-online-optimization-using-deep-l
 date: 2025-03-01
 year: '2025'
-authors: 'Xuewen Zhang, <strong>K. Zhang</strong>, Zhaojian Li, and Xunyuan Yin'
+authors: 'Xuewen Zhang, <strong>Kaixiang Zhang</strong>, Zhaojian Li, and Xunyuan Yin'
 venue: 'AIChE Journal'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://doi.org/10.1002/aic.18644'
 arxivurl: ''
 codeurl: ''
 videourl: ''
