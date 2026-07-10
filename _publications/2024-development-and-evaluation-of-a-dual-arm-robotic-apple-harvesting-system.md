@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-development-and-evaluation-of-a-dual-arm-robotic-apple-harvesting-system
 date: 2024-12-01
 year: '2024'
-authors: 'K. Lammers, <strong>K. Zhang</strong>, K. Zhu, P. Chu, Z. Li, and R. Lu'
+authors: 'Kyle Lammers, <strong>Kaixiang Zhang</strong>, Keyi Zhu, Pengyu Chu, Zhaojian Li, and Renfu Lu'
 venue: 'Computers and Electronics in Agriculture'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168169924009773?casa_token=SfQzmmOTnygAAAAA:vYXxAUH8TooUMkTUNGAX36yn-8gJ1U5T1WlhEWyvCaOwBwqiWvFwuD-dOff84pWVrWHcysY1fKm4'
 arxivurl: ''
 codeurl: ''
 videourl: ''
