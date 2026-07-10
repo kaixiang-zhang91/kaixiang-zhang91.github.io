@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-privacy-preserving-data-enabled-predictive-leading-cruise-control-in-mixed-traffic
 date: 2024-05-01
 year: '2024'
-authors: '<strong>K. Zhang</strong>, Kaian Chen, Zhaojian Li, Jun Chen, and Yang Zheng'
+authors: '<strong>Kaixiang Zhang</strong>, Kaian Chen, Zhaojian Li, Jun Chen, and Yang Zheng'
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10324502'
 arxivurl: ''
 codeurl: ''
 videourl: ''
