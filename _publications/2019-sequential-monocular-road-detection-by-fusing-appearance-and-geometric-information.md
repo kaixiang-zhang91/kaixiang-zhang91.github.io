@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2019-sequential-monocular-road-detection-by-fusing-appearance-and-geometric-information
 date: 2019-04-01
 year: '2019'
-authors: 'B. Jia, J. Chen, <strong>K. Zhang</strong>, and Q. Wang'
+authors: 'Bingxi Jia, Jian Chen, <strong>Kaixiang Zhang</strong>, and Qi Wang'
 venue: 'IEEE/ASME Transactions on Mechatronics'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8611097'
 arxivurl: ''
 codeurl: ''
 videourl: ''
