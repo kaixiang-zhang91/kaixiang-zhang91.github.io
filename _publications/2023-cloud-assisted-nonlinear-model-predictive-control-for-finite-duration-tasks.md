@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2023-cloud-assisted-nonlinear-model-predictive-control-for-finite-duration-tasks
 date: 2023-09-01
 year: '2023'
-authors: 'N. Li, <strong>K. Zhang</strong>, Z. Li, V. Srivastava, and X. Yin'
+authors: 'Nan Li, <strong>Kaixiang Zhang</strong>, Zhaojian Li, Vaibhav Srivastava, and Xiang Yin'
 venue: 'IEEE Transactions on Automatic Control'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/9936702'
 arxivurl: ''
 codeurl: ''
 videourl: ''
