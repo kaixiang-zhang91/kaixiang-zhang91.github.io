@@ -8,19 +8,14 @@
   </h2>
 
   {% if post.type %}
-    <p><strong>{{ post.type }}</strong></p>
-  {% endif %}
-
-  {% if post.venue %}
-    <p>{{ post.venue }}</p>
+    <p>{{ post.type }}, <i>{{ post.venue }}</i> </p>
   {% endif %}
 
   {% if post.semesters %}
-  <p>
-    <strong>Semesters taught:</strong>
+    <p>Semesters taught:
     {{ post.semesters | join: ", " }}
-  </p>
-{% endif %}
+    </p>
+  {% endif %}
 
   {% if post.excerpt %}
     <p>{{ post.excerpt }}</p>
