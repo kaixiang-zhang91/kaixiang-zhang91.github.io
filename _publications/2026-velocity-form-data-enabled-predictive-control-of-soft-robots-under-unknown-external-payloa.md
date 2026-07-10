@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-velocity-form-data-enabled-predictive-control-of-soft-robots-under-unknown-external-payloa
 date: 2026-08-01
 year: '2026'
-authors: 'Huanqing Wang, <strong>K. Zhang</strong>, Kyungjoon Lee, Yu Mei, Vaibhav Srivastava, Jun Sheng, Ziyou Song, and Zhaojian Li'
+authors: 'Huanqing Wang, <strong>Kaixiang Zhang</strong>, Kyungjoon Lee, Yu Mei, Vaibhav Srivastava, Jun Sheng, Ziyou Song, and Zhaojian Li'
 venue: 'IEEE Robotics and Automation Letters'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/11560943'
 arxivurl: ''
 codeurl: ''
 videourl: ''
