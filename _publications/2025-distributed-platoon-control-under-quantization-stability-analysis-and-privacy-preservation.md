@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2025-distributed-platoon-control-under-quantization-stability-analysis-and-privacy-preservation
 date: 2025-01-01
 year: '2025'
-authors: '<strong>K. Zhang</strong>, Zhaojian Li, and Wei Lin'
+authors: '<strong>Kaixiang Zhang</strong>, Zhaojian Li, and Wei Lin'
 venue: 'arXiv preprint arXiv:2510.05959'
 category: 'preprints'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2510.05959'
 arxivurl: ''
 codeurl: ''
 videourl: ''
