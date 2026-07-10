@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2022-data-enabled-predictive-control-for-fast-charging-of-lithium-ion-batteries-with-constraint
 date: 2022-01-01
 year: '2022'
-authors: '<strong>K. Zhang</strong>, Kaian Chen, Xinfan Lin, Yusheng Zheng, Xunyun Yin, Xiaosong Hu, Ziyou Song, and Zhaojian Li'
+authors: '<strong>Kaixiang Zhang</strong>, Kaian Chen, Xinfan Lin, Yusheng Zheng, Xunyun Yin, Xiaosong Hu, Ziyou Song, and Zhaojian Li'
 venue: 'arXiv preprint arXiv:2209.12862'
 category: 'preprints'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2209.12862'
 arxivurl: ''
 codeurl: ''
 videourl: ''
