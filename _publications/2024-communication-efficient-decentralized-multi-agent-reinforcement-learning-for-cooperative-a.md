@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-communication-efficient-decentralized-multi-agent-reinforcement-learning-for-cooperative-a
 date: 2024-10-01
 year: '2024'
-authors: 'D. Chen, <strong>K. Zhang</strong>, Y. Wang, X. Yin, Z. Li, and D. Filev'
+authors: 'Dong Chen, <strong>Kaixiang Zhang</strong>, Yongqiang Wang, Xunyuan Yin, Zhaojian Li, and Dimitar Filev'
 venue: 'IEEE Transactions on Intelligent Vehicles'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10443048'
 arxivurl: ''
 codeurl: ''
 videourl: ''
