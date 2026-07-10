@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2025-safe-data-driven-predictive-control
 date: 2025-04-01
 year: '2025'
-authors: 'A. Vahidi-Moghaddam, K. Chen, <strong>K. Zhang</strong>, Z. Li, Y. Wang, and K. Wu'
+authors: 'Amin Vahidi-Moghaddam, Kaian Chen, <strong>Kaixiang Zhang</strong>, Zhaojian Li, Yan Wang, and Kai Wu'
 venue: 'IEEE Transactions on Automation Science and Engineering'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10964284'
 arxivurl: ''
 codeurl: ''
 videourl: ''
