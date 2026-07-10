@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2018-unified-visual-servoing-tracking-and-regulation-of-wheeled-mobile-robots-with-an-uncalibra
 date: 2018-08-01
 year: '2018'
-authors: '<strong>K. Zhang</strong>, J. Chen, Y. Li, and Y. Gao'
+authors: '<strong>Kaixiang Zhang</strong>, Jian Chen, Yang Li, and Yanyan Gao'
 venue: 'IEEE/ASME Transactions on Mechatronics'
 category: 'manuscripts'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8359336'
 arxivurl: ''
 codeurl: ''
 videourl: ''
