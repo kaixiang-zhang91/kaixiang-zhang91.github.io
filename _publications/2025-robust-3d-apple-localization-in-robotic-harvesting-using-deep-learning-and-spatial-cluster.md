@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2025-robust-3d-apple-localization-in-robotic-harvesting-using-deep-learning-and-spatial-cluster
 date: 2025-07-01
 year: '2025'
-authors: 'Siddhartha S Bhattacharya, Chaaran Arunachalam, <strong>K. Zhang</strong>, Jiajia Li, Renfu Lu, and Zhaojian Li'
+authors: 'Siddhartha S Bhattacharya, Chaaran Arunachalam, <strong>Kaixiang Zhang</strong>, Jiajia Li, Renfu Lu, and Zhaojian Li'
 venue: 'Proceedings of the ASABE Annual International Meeting'
 category: 'conferences'
-paperurl: ''
+paperurl: 'https://elibrary.asabe.org/abstract.asp?aid=55504'
 arxivurl: ''
 codeurl: ''
 videourl: ''
