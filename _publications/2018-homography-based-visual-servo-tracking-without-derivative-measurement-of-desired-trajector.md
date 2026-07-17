@@ -1,5 +1,5 @@
 ---
-title: 'Homography-based visual servo tracking without derivative measurement of desired trajectory'
+title: 'Homography-Based Visual Servo Tracking Without Derivative Measurement of Desired Trajectory'
 collection: publications
 permalink: /publication/2018-homography-based-visual-servo-tracking-without-derivative-measurement-of-desired-trajector
 date: 2018-12-01
