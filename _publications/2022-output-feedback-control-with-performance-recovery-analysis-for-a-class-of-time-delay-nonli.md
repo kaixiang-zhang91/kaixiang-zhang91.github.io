@@ -1,5 +1,5 @@
 ---
-title: 'Output feedback control with performance recovery analysis for a class of time-delay nonlinear systems'
+title: 'Output Feedback Control With Performance Recovery Analysis for a Class of Time-Delay Nonlinear Systems'
 collection: publications
 permalink: /publication/2022-output-feedback-control-with-performance-recovery-analysis-for-a-class-of-time-delay-nonli
 date: 2022-10-01
