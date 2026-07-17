@@ -1,5 +1,5 @@
 ---
-title: 'A constructive stabilization method via system immersion for multi-input non-affine nonlinear systems'
+title: 'A Constructive Stabilization Method via System Immersion for Multi-Input Non-Affine Nonlinear Systems'
 collection: publications
 permalink: /publication/2016-a-constructive-stabilization-method-via-system-immersion-for-multi-input-non-affine-nonlin
 date: 2016-12-01
