@@ -1,5 +1,5 @@
 ---
-title: 'Adaptive tracking for MIMO nonlinear systems with Unknown fast time-varying parameters'
+title: 'Adaptive Tracking for MIMO Nonlinear Systems With Unknown Fast Time-Varying Parameters'
 collection: publications
 permalink: /publication/2018-adaptive-tracking-for-mimo-nonlinear-systems-with-unknown-fast-time-varying-parameters
 date: 2018-09-01
