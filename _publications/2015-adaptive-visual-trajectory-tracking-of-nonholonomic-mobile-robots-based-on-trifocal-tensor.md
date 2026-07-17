@@ -1,5 +1,5 @@
 ---
-title: 'Adaptive visual trajectory tracking of nonholonomic mobile robots based on trifocal tensor'
+title: 'Adaptive Visual Trajectory Tracking of Nonholonomic Mobile Robots Based on Trifocal Tensor'
 collection: publications
 permalink: /publication/2015-adaptive-visual-trajectory-tracking-of-nonholonomic-mobile-robots-based-on-trifocal-tensor
 date: 2015-09-01
