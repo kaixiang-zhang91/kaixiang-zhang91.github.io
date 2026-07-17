@@ -1,5 +1,5 @@
 ---
-title: 'Unified tracking and regulation visual serving of wheeled mobile robots with Euclidean reconstruction'
+title: 'Unified Tracking and Regulation Visual Serving of Wheeled Mobile Robots With Euclidean Reconstruction'
 collection: publications
 permalink: /publication/2017-unified-tracking-and-regulation-visual-serving-of-wheeled-mobile-robots-with-euclidean-rec
 date: 2017-05-01
