@@ -1,5 +1,5 @@
 ---
-title: 'Unified visual servoing tracking and regulation of wheeled mobile robots with an uncalibrated camera'
+title: 'Unified Visual Servoing Tracking and Regulation of Wheeled Mobile Robots With an Uncalibrated Camera'
 collection: publications
 permalink: /publication/2018-unified-visual-servoing-tracking-and-regulation-of-wheeled-mobile-robots-with-an-uncalibra
 date: 2018-08-01
