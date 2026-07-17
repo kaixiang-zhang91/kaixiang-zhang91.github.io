@@ -1,5 +1,5 @@
 ---
-title: 'Survey on robot visual servo control: Vision system and control strategies'
+title: 'Survey on Robot Visual Servo Control: Vision System and Control Strategies'
 collection: publications
 permalink: /publication/2015-survey-on-robot-visual-servo-control-vision-system-and-control-strategies
 date: 2015-05-01
