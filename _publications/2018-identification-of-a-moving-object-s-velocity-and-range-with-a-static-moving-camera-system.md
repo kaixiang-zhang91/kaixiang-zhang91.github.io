@@ -1,5 +1,5 @@
 ---
-title: 'Identification of a moving object''s velocity and range with a static-moving camera system'
+title: 'Identification of a Moving Object''s Velocity and Range With a Static-Moving Camera System'
 collection: publications
 permalink: /publication/2018-identification-of-a-moving-object-s-velocity-and-range-with-a-static-moving-camera-system
 date: 2018-07-01
