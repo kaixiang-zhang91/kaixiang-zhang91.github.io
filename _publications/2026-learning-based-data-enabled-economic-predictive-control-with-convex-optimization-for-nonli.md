@@ -1,5 +1,5 @@
 ---
-title: 'Learning-based data-enabled economic predictive control with convex optimization for nonlinear systems'
+title: 'Learning-Based Data-Enabled Economic Predictive Control With Convex Optimization for Nonlinear Systems'
 collection: publications
 permalink: /publication/2026-learning-based-data-enabled-economic-predictive-control-with-convex-optimization-for-nonli
 date: 2026-09-01
