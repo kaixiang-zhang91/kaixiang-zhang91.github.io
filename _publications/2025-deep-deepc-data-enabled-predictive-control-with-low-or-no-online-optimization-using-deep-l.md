@@ -1,5 +1,5 @@
 ---
-title: 'Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning'
+title: 'Deep DeePC: Data-Enabled Predictive Control With Low or No Online Optimization Using Deep Learning'
 collection: publications
 permalink: /publication/2025-deep-deepc-data-enabled-predictive-control-with-low-or-no-online-optimization-using-deep-l
 date: 2025-03-01
