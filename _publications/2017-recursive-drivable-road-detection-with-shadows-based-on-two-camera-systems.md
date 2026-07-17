@@ -1,5 +1,5 @@
 ---
-title: 'Recursive drivable road detection with shadows based on two-camera systems'
+title: 'Recursive Drivable Road Detection With Shadows Based on Two-Camera Systems'
 collection: publications
 permalink: /publication/2017-recursive-drivable-road-detection-with-shadows-based-on-two-camera-systems
 date: 2017-08-01
