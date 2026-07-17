@@ -1,5 +1,5 @@
 ---
-title: 'A 2-point pose estimation algorithm for monocular visual odometry of ground vehicles'
+title: 'A 2-Point Pose Estimation Algorithm for Monocular Visual Odometry of Ground Vehicles'
 collection: publications
 permalink: /publication/2017-a-2-point-pose-estimation-algorithm-for-monocular-visual-odometry-of-ground-vehicles
 date: 2017-09-01
