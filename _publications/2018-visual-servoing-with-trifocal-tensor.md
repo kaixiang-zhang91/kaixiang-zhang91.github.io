@@ -1,5 +1,5 @@
 ---
-title: 'Visual servoing with trifocal tensor'
+title: 'Visual Servoing With Trifocal Tensor'
 collection: publications
 permalink: /publication/2018-visual-servoing-with-trifocal-tensor
 date: 2018-12-01
