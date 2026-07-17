@@ -1,5 +1,5 @@
 ---
-title: 'Trifocal tensor-based 6 DOF visual servoing'
+title: 'Trifocal Tensor-Based 6 DOF Visual Servoing'
 collection: publications
 permalink: /publication/2019-trifocal-tensor-based-6-dof-visual-servoing
 date: 2019-09-01
