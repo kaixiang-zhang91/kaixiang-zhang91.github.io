@@ -1,5 +1,5 @@
 ---
-title: 'Detect, segment, cluster: Apple localization for robotic harvesting in complex orchards'
+title: 'Detect, Segment, Cluster: Apple Localization for Robotic Harvesting in Complex Orchards'
 collection: publications
 permalink: /publication/2025-detect-segment-cluster-apple-localization-for-robotic-harvesting-in-complex-orchards
 date: 2025-12-01
