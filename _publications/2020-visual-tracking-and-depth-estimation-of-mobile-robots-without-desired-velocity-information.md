@@ -1,5 +1,5 @@
 ---
-title: 'Visual tracking and depth estimation of mobile robots without desired velocity information'
+title: 'Visual Tracking and Depth Estimation of Mobile Robots Without Desired Velocity Information'
 collection: publications
 permalink: /publication/2020-visual-tracking-and-depth-estimation-of-mobile-robots-without-desired-velocity-information
 date: 2020-01-01
