@@ -1,5 +1,5 @@
 ---
-title: 'Control of regenerative braking systems for four-wheel-independently-actuated electric vehicles'
+title: 'Control of Regenerative Braking Systems for Four-Wheel-Independently-Actuated Electric Vehicles'
 collection: publications
 permalink: /publication/2018-control-of-regenerative-braking-systems-for-four-wheel-independently-actuated-electric-veh
 date: 2018-04-01
