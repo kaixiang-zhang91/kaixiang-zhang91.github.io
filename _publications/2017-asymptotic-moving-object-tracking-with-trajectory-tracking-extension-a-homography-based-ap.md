@@ -1,5 +1,5 @@
 ---
-title: 'Asymptotic moving object tracking with trajectory tracking extension: A homography-based approach'
+title: 'Asymptotic Moving Object Tracking With Trajectory Tracking Extension: A Homography-Based Approach'
 collection: publications
 permalink: /publication/2017-asymptotic-moving-object-tracking-with-trajectory-tracking-extension-a-homography-based-ap
 date: 2017-12-01
