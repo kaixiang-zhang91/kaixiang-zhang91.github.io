@@ -13,7 +13,7 @@ I will join the Department of Mechanical Engineering at the University of Arkans
 
 I received my B.E. degree in Automation from Xiamen University, China, and my Ph.D. degree in Control Science and Engineering from Zhejiang University, China, under the supervision of [Prof. Jian Chen](https://scholar.google.com/citations?hl=en&user=TwA1iewAAAAJ&view_op=list_works).
 
-My primary research interests lie in automation and robotics, through cross-disciplinary research interweaving control theory, perception, privacy preservation, and artificial intelligence. My current research also focuses on applications such as field robotics and smart agriculture, where robust perception, decision-making, and control are essential for enabling safe and efficient autonomous operation in structured/unstructured environments.
+My primary research interests lie in automation and robotics, through cross-disciplinary research interweaving control theory, perception, privacy preservation, and artificial intelligence. My research also focuses on applications such as field robotics and smart agriculture, where robust perception, decision-making, and control are essential for enabling safe and efficient autonomous operation in structured/unstructured environments.
 
 # News
 
