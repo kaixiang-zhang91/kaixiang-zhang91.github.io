@@ -19,7 +19,7 @@ My primary research interests lie in automation and robotics, through cross-disc
 
 **2026**
 - <span style="background:#d9534f; color:white; padding:2px 8px; border-radius:4px;"><strong>Hiring!</strong></span>
-  We are recruiting **two fully funded Ph.D. students** beginning in **Spring/Fall 2027** at the University of Arkansas.
+  We are recruiting **fully funded Ph.D. students** beginning in **Spring/Fall 2027** at the University of Arkansas.
   Interested applicants are encouraged to email **zhangk64@msu.edu** with their CV and a summary of their qualifications.
 - [07/2026] Our paper **Design and Data-Driven Control of Hydraulic Tendon-Driven Mechanisms for MRI-Conditional Surgical Robots** was accepted for publication in IECON 2026.
 - [06/2026] A new preprint: [A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance](https://arxiv.org/abs/2606.14089).
