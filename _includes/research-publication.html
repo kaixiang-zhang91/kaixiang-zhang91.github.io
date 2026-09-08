@@ -1,0 +1,71 @@
+<div class="research-publication">
+
+  <div class="research-publication-media">
+
+    {% if include.image %}
+      <img
+        src="{{ include.image | relative_url }}"
+        alt="{{ include.title }}"
+        loading="lazy">
+    {% endif %}
+
+    {% if include.video %}
+      <video autoplay muted loop playsinline preload="metadata">
+        <source src="{{ include.video | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    {% endif %}
+
+  </div>
+
+  <div class="research-publication-info">
+
+    <div class="research-publication-title">
+      <strong>{{ include.title }}</strong>
+    </div>
+
+    {% if include.authors %}
+      <div class="research-publication-authors">
+        {{ include.authors }}
+      </div>
+    {% endif %}
+
+    {% if include.venue %}
+      <div class="research-publication-venue">
+        <em>{{ include.venue }}</em>{% if include.year %}, {{ include.year }}{% endif %}
+      </div>
+    {% endif %}
+
+    {% if include.description %}
+      <div class="research-publication-description">
+        {{ include.description }}
+      </div>
+    {% endif %}
+
+    <div class="research-publication-links">
+
+      {% if include.paper %}
+        <a href="{{ include.paper }}" target="_blank" rel="noopener">[Paper]</a>
+      {% endif %}
+
+      {% if include.arxiv %}
+        <a href="{{ include.arxiv }}" target="_blank" rel="noopener">[arXiv]</a>
+      {% endif %}
+
+      {% if include.code %}
+        <a href="{{ include.code }}" target="_blank" rel="noopener">[Code]</a>
+      {% endif %}
+
+      {% if include.project %}
+        <a href="{{ include.project }}" target="_blank" rel="noopener">[Project]</a>
+      {% endif %}
+
+      {% if include.video_link %}
+        <a href="{{ include.video_link }}" target="_blank" rel="noopener">[Video]</a>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</div>
