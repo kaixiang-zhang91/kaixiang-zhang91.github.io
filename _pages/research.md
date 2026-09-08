@@ -65,7 +65,7 @@ author_profile: true
 %}
 
 {% include research-publication.html
-  image="/files/videos/TCST_2026_low.mp4.jpg"
+  image="/files/videos/TCST_2026_low.mp4"
   title="Data-Enabled Neighboring Extremal: Case Study on Model-Free Trajectory Tracking for Robotic Arm"
   authors="A. Vahidi-Moghaddam, K. Zhu, <strong>K. Zhang</strong>, Z. Song, Z. Li"
   venue=" IEEE Transactions on Control Systems Technology"
