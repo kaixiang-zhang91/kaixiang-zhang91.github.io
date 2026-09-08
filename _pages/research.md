@@ -52,14 +52,41 @@ author_profile: true
   paper="https://www.sciencedirect.com/science/article/pii/S0957415821001173?casa_token=IkameEiMrgUAAAAA:VCIavNJHf7zgRzAloAagQuxjgZGJy6M-38PQh3Xj_z7Xl_ExFAaAh6JHSyNKdOU3bwhbXEegeA"
 %}
 
-## Robot Perception and 3D Localization
+## Efficient Data-Enabled Predictive Control for Autonomous Systems
 
-Brief introduction...
+### Selected Publications
+{% include research-publication.html
+  image="/images/research/DeePC/RAL_2026_v2.jpg"
+  title="Velocity-Form Data-Enabled Predictive Control of Soft Robots Under Unknown External Payloads"
+  authors="H. Wang, <strong>K. Zhang</strong>, K. Lee, Y. Mei, V. Srivastava, J. Sheng, Z. Song, Z. Li"
+  venue="IEEE Robotics and Automation Letters"
+  year="2026"
+  paper="https://ieeexplore.ieee.org/document/11560943"
+%}
 
-## Data-Driven and Learning-Based Control
+{% include research-publication.html
+  image="/files/videos/TCST_2026_low.mp4.jpg"
+  title="Data-Enabled Neighboring Extremal: Case Study on Model-Free Trajectory Tracking for Robotic Arm"
+  authors="A. Vahidi-Moghaddam, K. Zhu, <strong>K. Zhang</strong>, Z. Song, Z. Li"
+  venue=" IEEE Transactions on Control Systems Technology"
+  year="2026"
+  paper="https://ieeexplore.ieee.org/document/11373092"
+%}
 
-Brief introduction...
+{% include research-publication.html
+  image="/files/videos/RAL_2024.mp4"
+  title="Mechanical Design and Data-Enabled Predictive Control of a Planar Soft Robot"
+  authors="H. Wang, <strong>K. Zhang</strong>, K. Lee, Y. Mei, K. Zhu, V. Srivastava, J. Sheng, Z. Li"
+  venue="IEEE Robotics and Automation Letters"
+  year="2024"
+  paper="https://ieeexplore.ieee.org/document/10613891"
+%}
 
-## Safe and Intelligent Autonomous Systems
-
-Brief introduction...
+{% include research-publication.html
+  image="/images/research/DeePC/SCL_2023_v2.jpg"
+  title="Dimension Reduction for Efficient Data-Enabled Predictive Control"
+  authors="<strong>K. Zhang</strong>, Y. Zheng, C. Shang, Z. Li"
+  venue="IEEE Control Systems Letters"
+  year="2023"
+  paper="https://ieeexplore.ieee.org/document/10274470"
+%}
