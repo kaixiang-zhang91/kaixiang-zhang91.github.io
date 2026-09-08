@@ -8,7 +8,7 @@ author_profile: true
 
 ### Selected Publications
 {% include research-publication.html
-  video="/files/videos/JFR_2025.mp4"
+  video="/files/videos/JFR_2025_low.mp4"
   title="A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance"
   authors="K. Zhu, K. Lammers, C. Arunachalam, <strong>K. Zhang</strong>, R. Lu, Z. Li"
   venue="arXiv"
@@ -17,7 +17,7 @@ author_profile: true
 %}
 
 {% include research-publication.html
-  video="/files/videos/CEA_2024.mp4"
+  video="/files/videos/CEA_2024_low.mp4"
   title="Development and Evaluation of a Dual-Arm Robotic Apple Harvesting System"
   authors="K. Lammers, <strong>K. Zhang</strong>, K. Zhu, P. Chu, Z. Li, R. Lu"
   venue="Computers and Electronics in Agriculture"
@@ -26,7 +26,7 @@ author_profile: true
 %}
 
 {% include research-publication.html
-  video="/files/videos/JFR_2024.mp4"
+  video="/files/videos/JFR_2024_low.mp4"
   title="An Automated Apple Harvesting Robot – From System Design to Field Evaluation"
   authors="<strong>K. Zhang</strong>, K. Lammers, P. Chu, Z. Li, R. Lu"
   venue="Journal of Field Robotics"
@@ -35,7 +35,7 @@ author_profile: true
 %}
 
 {% include research-publication.html
-  video="/files/videos/IROS_2022.mp4"
+  video="/files/videos/IROS_2022_high.mp4"
   title="Algorithm Design and Integration for a Robotic Apple Harvesting System"
   authors="<strong>K. Zhang</strong>, K. Lammers, P. Chu, N. Dickinson, Z. Li, R. Lu"
   venue="IEEE/RSJ International Conference on Intelligent Robots and Systems"
