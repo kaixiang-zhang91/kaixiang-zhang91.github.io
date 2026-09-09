@@ -90,3 +90,52 @@ author_profile: true
   year="2023"
   paper="https://ieeexplore.ieee.org/document/10274470"
 %}
+
+## Cloud/Distributed Control for Privacy-Critical Systems
+
+### Selected Publications
+{% include research-publication.html
+  image="/images/research/privacy-preserving-control/TAC_2026.jpg"
+  title="Differentially-Private Distributed Model Predictive Control of Linear Discrete-Time Systems with Global Constraints"
+  authors="<strong>K. Zhang</strong>, Y. Wang, Z. Song, Z. Li"
+  venue="IEEE Transactions on Automatic Control"
+  year="2026"
+  paper="https://ieeexplore.ieee.org/document/11223096"
+%}
+
+{% include research-publication.html
+  image="/images/research/privacy-preserving-control/AUTO_2025.jpg"
+  title="Privacy-Preserving Nonlinear Cloud-Based Model Predictive Control via Affine Masking"
+  authors="<strong>K. Zhang</strong>, Z. Li, Y. Wang, N. Li"
+  venue="Automatica"
+  year="2025"
+  paper="https://www.sciencedirect.com/science/article/abs/pii/S0005109824004333"
+%}
+
+{% include research-publication.html
+  image="/images/research/privacy-preserving-control/TITS_2024.jpg"
+  title="Privacy-Preserving Data-Enabled Predictive Leading Cruise Control in Mixed Traffic"
+  authors="<strong>K. Zhang</strong>, K. Chen, Z. Li, J. Chen, Y. Zheng"
+  venue="IEEE Transactions on Intelligent Transportation Systems"
+  year="2024"
+  paper="https://ieeexplore.ieee.org/document/10324502"
+%}
+
+{% include research-publication.html
+  image="/images/research/privacy-preserving-control/TAC_2023.jpg"
+  title="Cloud-Assisted Nonlinear Model Predictive Control for Finite-Duration Tasks"
+  authors="N. Li, <strong>K. Zhang</strong>, Z. Li, V. Srivastava, X. Yin"
+  venue="IEEE Transactions on Automatic Control"
+  year="2023"
+  paper="https://ieeexplore.ieee.org/document/9936702"
+%}
+
+{% include research-publication.html
+  image="/images/research/privacy-preserving-control/AUTO_2022.jpg"
+  title="Privacy-Preserving Dynamic Average Consensus via State Decomposition: Case Study on Multi-Robot Formation Control"
+  authors="<strong>K. Zhang</strong>, Z. Li, A. Louati, J. Chen"
+  venue="Automatica"
+  year="2022"
+  paper="https://www.sciencedirect.com/science/article/abs/pii/S0005109822000279"
+%}
+
