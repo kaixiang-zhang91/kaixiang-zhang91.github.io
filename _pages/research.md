@@ -133,7 +133,7 @@ author_profile: true
 {% include research-publication.html
   image="/images/research/privacy-preserving-control/AUTO_2022.jpg"
   title="Privacy-Preserving Dynamic Average Consensus via State Decomposition: Case Study on Multi-Robot Formation Control"
-  authors="<strong>K. Zhang</strong>, Z. Li, A. Louati, J. Chen"
+  authors="<strong>K. Zhang</strong>, Z. Li, Y. Wang, A. Louati, J. Chen"
   venue="Automatica"
   year="2022"
   paper="https://www.sciencedirect.com/science/article/abs/pii/S0005109822000279"
