@@ -139,3 +139,50 @@ author_profile: true
   paper="https://www.sciencedirect.com/science/article/abs/pii/S0005109822000279"
 %}
 
+## Machine Vision-Based Robotic Control With Guaranteed Stability
+
+### Selected Publications
+{% include research-publication.html
+  image="/images/research/visual-servo/TMCS_2021.jpg"
+  title="Visual Trajectory Tracking of Wheeled Mobile Robots With Uncalibrated Camera Extrinsic Parameters"
+  authors="<strong>K. Zhang</strong>, J. Chen, G. Yu, X. Zhang, Z. Li"
+  venue="IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  year="2021"
+  paper="https://ieeexplore.ieee.org/document/8984727"
+%}
+
+{% include research-publication.html
+  image="/images/research/visual-servo/TCYB_2020.jpg"
+  title="Visual Tracking and Depth Estimation of Mobile Robots Without Desired Velocity Information"
+  authors="<strong>K. Zhang</strong>, J. Chen, Y. Li, X. Zhang"
+  venue="IEEE Transactions on Cybernetics"
+  year="2020"
+  paper="https://ieeexplore.ieee.org/document/8478245"
+%}
+
+{% include research-publication.html
+  video="/files/videos/IJRR_2019.mp4"
+  title="Trifocal Tensor-Based 6 DOF Visual Servoing"
+  authors="<strong>K. Zhang</strong>, F. Chaumette, J. Chen"
+  venue="International Journal of Robotics Research"
+  year="2019"
+  paper="https://journals.sagepub.com/doi/abs/10.1177/0278364919872544"
+%}
+
+{% include research-publication.html
+  video="/files/videos/TMECH_2018.mp4"
+  title="Unified Visual Servoing Tracking and Regulation of Wheeled Mobile Robots With an Uncalibrated Camera"
+  authors="<strong>K. Zhang</strong>, J. Chen, Y. Li, Y. Gao"
+  venue="IEEE/ASME Transactions on Mechatronics"
+  year="2018"
+  paper="https://ieeexplore.ieee.org/document/8359336"
+%}
+
+{% include research-publication.html
+  video="/files/videos/TCYB_2017.mp4"
+  title="Trifocal Tensor-Based Adaptive Visual Trajectory Tracking Control of Mobile Robots"
+  authors="J. Chen, B. Jia, <strong>K. Zhang</strong>"
+  venue="IEEE Transactions on Cybernetics"
+  year="2017"
+  paper="https://ieeexplore.ieee.org/document/7353894"
+%}
