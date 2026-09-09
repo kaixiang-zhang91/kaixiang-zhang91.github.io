@@ -143,7 +143,7 @@ author_profile: true
 
 ### Selected Publications
 {% include research-publication.html
-  image="/images/research/visual-servo/TMCS_2021.jpg"
+  image="/images/research/visual-servo/TSMC_2021.jpg"
   title="Visual Trajectory Tracking of Wheeled Mobile Robots With Uncalibrated Camera Extrinsic Parameters"
   authors="<strong>K. Zhang</strong>, J. Chen, G. Yu, X. Zhang, Z. Li"
   venue="IEEE Transactions on Systems, Man, and Cybernetics: Systems"
